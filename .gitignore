@@ -28,5 +28,4 @@ sysinfo.txt
 # VSCode
 Tile/Assets/Plugins/VSCode.cs
 Tile/Assets/Plugins/VSCode.meta
-Tile/.vscode
-Tile/.vscode/settings.json
+Tile/.vscode/

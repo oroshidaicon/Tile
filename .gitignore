@@ -26,6 +26,6 @@ ExportedObj/
 sysinfo.txt
 
 # VSCode
-Tile/Assets/Plugins/Editor/VSCode.cs
-Tile/Assets/Plugins/Editor/VSCode.meta
-Tile/.vscode
+{Tile}/Assets/Plugins/Editor/VSCode.cs
+{Tile}/Assets/Plugins/Editor/VSCode.meta
+{Tile}/.vscode
